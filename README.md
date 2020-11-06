@@ -1,3 +1,3 @@
 # NUEVO-PROYECTO
 PROYECTO 
-[link de mi paquina](www.misedarrollo.com)
+[link de mi paquina](www.mipaquina.com)
